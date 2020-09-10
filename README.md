@@ -2,7 +2,9 @@
 
 ## how to run project ??
 
-i have provide root folder of the  apllication this folder consist only sorce code of server side and client 
+i have provide root folder of the  apllication this folder consist only sorce code of server side and client <br/>
+i have also provided all the screen shot of the project in zip file
+
 
 ### to run the application you need to follow this step
 
@@ -17,4 +19,4 @@ final step -> run server  inside the root folder run server by cmnd  <b>node ser
 <hr></hr>
             
             
-#  application get Started 
+##  application will Start
