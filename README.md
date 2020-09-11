@@ -2,7 +2,7 @@
 
 ## how to run project ??
 
-i have provide root folder of the  apllication this folder consist only sorce code of server side and client <br/>
+i have provide root folder of the  apllication this folder consist only source code of server side and client <br/>
 i have also provided all the screen shot of the project in zip file
 
 
